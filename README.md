@@ -1,6 +1,6 @@
 # A7Sticker_BabyCareTeam-master
- Prototype of the python dev project
-
+ Prototype of a baby growth tracking/collaborative project
+ 
 1. we use Firebase Realtime Database to create an app to send a sticker to a specific friend who also has the app. we will use your predefined "stickers" (images) that users tap on instead of letting the user type emojis with the keyboard.
 2. we display how many of each sticker a user has sent because a future version of the app might have users purchase those stickers that they send, and the stickers might have different costs.  Show each user a history of stickers that they have received (which sticker was sent and who sent it and when it was sent). 
 3. The app adjust with different screen size. Not everyone has the same size screen, and not everyone holds their device the same orientation.  If the user rotates the device, reload the activity data so that the user stays smoothly on the same screen. 
