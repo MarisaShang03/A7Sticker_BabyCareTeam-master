@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603671005402",
+    "project_id": "a7-babycareteam",
+    "storage_bucket": "a7-babycareteam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603671005402:android:fac5206df4259a58d7fde3",
+        "android_client_info": {
+          "package_name": "edu.neu.a7_babycareteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603671005402-3h2ouu1c3ho80ojjcba8fkdqnam18scm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljLO-9ktQdmuLm_BuOGFqeabF_xjlEIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603671005402-3h2ouu1c3ho80ojjcba8fkdqnam18scm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

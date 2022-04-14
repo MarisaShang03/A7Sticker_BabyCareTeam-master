@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">A7_BabyCareTeam</string>
+    <string name="channel_name">A7</string>s
+    <string name="channel_description">Notification Channel for the A7 app</string>
+    <string name="channel_id">A7</string>
+</resources>
